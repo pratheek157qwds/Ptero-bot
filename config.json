@@ -1,0 +1,28 @@
+{
+  "token": "MTM3ODAzMzM2Mzk2NDkyMzk3NA.GllNkH.KfQfrX6y0daxYAAZBbuztTKVi-EJM-MjIwVJAM",
+  "prefix": ".",
+  "developerId": "744557711513092098",
+  "pterodactyl": {
+    "host": "https://panel.lordcloud.tech",
+    "apiKey": "ptlc_Sfb8cQ3A7pEKbK04K9u3SJUY9fYyQUEip0zF9XIZiaW"
+  },
+  "botRestartInterval": "6h",
+  "adminIds": [
+    "744557711513092098",
+    "774858870526312451"
+  ],
+  "consoleChannels": {
+    "1359947170677129388": {
+      "serverId": "07121b4d",
+      "apiKey": "ptlc_Sfb8cQ3A7pEKbK04K9u3SJUY9fYyQUEip0zF9XIZiaW",
+      "guildId": "1187913871583891506",
+      "setupBy": "744557711513092098",
+      "setupAt": 1748619461354
+    }
+  },
+  "settings": {
+    "embedColor": "#0099ff",
+    "errorColor": "#ff0000",
+    "successColor": "#00ff00"
+  }
+}
